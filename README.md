@@ -1,7 +1,7 @@
 # users-manage Cookbook
 
 This Cookbook grants and revokes ssh access to users on instances .
-Bootstrpa the servers that you need to execute this cookbook on using the knife bootstrap command and follow instructions as follows
+Bootstrap the servers that you need to execute this cookbook on using the knife bootstrap command and follow instructions as follows.
 
 ## Requirements
 

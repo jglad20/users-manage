@@ -1,0 +1,12 @@
+{
+    "id": "johnny",
+    "comment": "Johnny Gladwin",
+    "home": "/home/johnny",
+    "groups": [
+        "admin"
+    ],
+    "ssh_keys": [
+        "AAA123...xyz== foo",
+        "AAA456...uvw== bar"
+    ]
+}

@@ -71,5 +71,5 @@ To revoke access
 ```
 ## License and Authors
 
-Authors: Johnny Gladwin<johnny.gladwin@outlook.com>: List authors
+Authors: Johnny Gladwin <johnny.gladwin@outlook.com> : List authors
 

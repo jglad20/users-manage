@@ -38,10 +38,10 @@ e.g.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['users-manage']['']</tt></td>
+    <td><tt></tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
+    <td><tt></tt></td>
   </tr>
 </table>
 
@@ -61,12 +61,14 @@ Just include `users-manage` in your node's `run_list` to grant access:
 }
 ```
 To revoke access
+```json
 {
   "name":"my_node",
   "run_list": [
     "recipe[users-manage::remove]"
   ]
 }
+```
 ## License and Authors
 
 Authors: Johnny Gladwin<johnny.gladwin@outlook.com>: List authors
